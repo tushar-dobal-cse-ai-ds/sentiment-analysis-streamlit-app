@@ -8,7 +8,7 @@ Users can enter any movie review, and the app will classify it as **positive �
 
 ## 🚀 Live Demo
 
-👉 https://sentiment-analysis-web-app.streamlit.app
+👉 https://sentiment-analysis-web-apps.streamlit.app
 
 ---
 
